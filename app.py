@@ -3,7 +3,7 @@ import pickle
 import os
 
 # Get the absolute path to the pickled model file
-model_path = os.path.join(os.getcwd(), 'path/to/mpg_regression.sav')
+model_path = os.path.join(os.getcwd(), 'D:/Deep_Project1/mpg_regression.sav')
 
 st.title('Mpg ML Project')
 
